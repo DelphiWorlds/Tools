@@ -18,6 +18,6 @@ ACTED (Android Companion Tool Enhancing Delphi)
   
   * Extraction of Android Archive (AAR) files, specifically for inclusion of Android libraries such as Firebase
   * Creation of jars that include R classes - again for inclusion of Android libraries
-  * (FUTURE) Creation of strings.xml from google-services.json for inclusion with Firebase projects
+  * Creation of strings.xml from google-services.json for inclusion with Firebase projects
   * (FUTURE) Building of jars from Java source for inclusion with Android projects
   
