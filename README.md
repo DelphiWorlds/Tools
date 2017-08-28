@@ -25,14 +25,14 @@ ACTED (Android Companion Tool Enhancing Delphi)
 Version history:
 
 1.2.0.0
-  Added Build Jar function
-  Reworked execution of commands to use JvCreateProcess from JVCL
-  Most file/folder selections are now remembered
+  * Added Build Jar function
+  * Reworked execution of commands to use JvCreateProcess from JVCL
+  * Most file/folder selections are now remembered
 
 1.1.0.0
-  Fixed issue with Android SDK Path selection
-  Fixed issue with Android API Level selection
+  * Fixed issue with Android SDK Path selection
+  * Fixed issue with Android API Level selection
   
 1.0.0.0
-  Initial release
+  * Initial release
   
