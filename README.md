@@ -13,6 +13,18 @@ Where applicable, the source for these tools will eventually be added to a publi
 
 Tools:
 
+STAR (SDK Transform Assist Resource)
+
+  Used for transforming ObjectiveC headers into Delphi (Object Pascal)
+  
+  Usage should be fairly straightforward. Please create an issue if documentation should be required.
+  
+Version history:
+
+1.0.0.0
+  * Initial release
+  
+
 ACTED (Android Companion Tool Enhancing Delphi)
 
   Used for:
