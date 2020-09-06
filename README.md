@@ -3,7 +3,7 @@ Compiled binaries of Delphi Worlds companion tools
 
 This project contains tools associated with Delphi Worlds projects and articles published on the Delphi Worlds blog:
 
-  http://www.delphiworlds.com/blog
+  https://www.delphiworlds.com/blog
 
   *** USE THESE TOOLS AT YOUR OWN RISK. NO RESPONSIBILITY WILL BE ACCEPTED FOR LOSS OF DATA, OR ANY OTHER DAMAGE ***
   
@@ -12,6 +12,10 @@ This project contains tools associated with Delphi Worlds projects and articles 
 Where applicable, the source for these tools will eventually be added to a public repository for each tool.
 
 Tools:
+
+Android SDK Installer 
+
+  For manual install of the Android SDK, focusing on the minimum requirements for use with RAD Studio
 
 STAR (SDK Transform Assist Resource)
 
@@ -26,6 +30,8 @@ Version history:
   
 
 ACTED (Android Companion Tool Enhancing Delphi)
+
+**NOTE: ACTED is no longer in development - please use Codex instead: https://www.delphiworlds.com/Codex**
 
   Used for:
   
